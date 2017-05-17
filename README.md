@@ -1,3 +1,4 @@
-###GardenRpi
-#####garden RPI is automated garden of the RPI, 
-this code is designated to be on the RPI itself and to communicate with a server. 
+GitHub Markup
+=============
+
+This library is the first step of a journey that every markup file in a repository goes on before it is rendered on GitHub.com:
